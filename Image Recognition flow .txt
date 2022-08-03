@@ -1,0 +1,55 @@
+﻿1. Agile Workflow
+AI 
+1. Image Recognition 
+2. recommenders System
+3. Data Collection
+Image Recognition 
+1. Paid API's 
+   1. (Google cloudvision/ Amazon’s Rekognition API /Nyckel)
+   2. paid, need enhancement and tweaking according to our requirement 
+2. Free API 
+   1. APIs-https://europeangaming.eu/portal/latest-news/2019/04/12/43299/top-5-open-source-ai-solutions-for-image-processing/
+   2. OpencV, Tensor Flow , Google Colab
+   3. Few pre-trained and to be trained.
+      1. Collect data (images and label them)
+      2. Training Model
+      3. Freezing & Conversion
+      4. Deploy
+      5. Tuning based on Android/ IOS / web 
+   4. The only perquisite is that you know how to program in Python though you can also learn how to do so using the many examples you will find in OpenCV.
+   5. Fruit and vegetable - https://www.youtube.com/watch?v=cF6rMXZcuCs
+   6. Text Detection + Image recognition
+3. Building our own from scratch based on requirement.
+   1. However, building a custom machine learning model or neural network requires lots of resources and a high level of technology expertise. 
+4. ML platform  (storage /Azure Data Lake/ AData Factory)
+   1. To store, process, clean shared space -perhaps not immediate .
+
+
+neural network
+Worked on Image processing and recognition. 
+Opencv
+
+
+
+
+
+
+If it is for an app
+* Use Google ML Kit. It works on both iOS and Android. Even the web actually, and you can benefit from the cloud offload too.
+* On iOS, you have Core ML which has base machine learning models available too.
+* Otherwise, OpenCV is a library available also in numerous programming languages and operating systems
+
+
+* Image Recognition 
+
+   1. Paid API's 
+   * (Google cloudvision/ Amazon’s Rekognition API /Nyckel)
+   * paid, need enhancement and tweaking according to our requirement 
+   2. Free API 
+   * OpencV, Tensor Flow , Google Colab
+   * Few pre-trained and to be trained.
+   * Text Detection + Image recognition
+   3. Building our own from scratch based on requirement.
+   * However, building a custom machine learning model or neural network requires lots of resources and a high level of technology expertise. 
+   4. ML platform  (storage /Azure Data Lake/ AData Factory)
+   * To store, process, clean shared space -perhaps not immediate .
